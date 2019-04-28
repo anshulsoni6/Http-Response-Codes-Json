@@ -133,9 +133,9 @@
                 "code": 417,
                 "message": "Expectation Failed"
             },
-            "i\"m_a_teapot": {
+            "I_am_a_teapot": {
                 "code": 418,
-                "message": "I\"m a teapot"
+                "message": "I am a teapot"
             },
             "unprocessable_entity": {
                 "code": 422,
