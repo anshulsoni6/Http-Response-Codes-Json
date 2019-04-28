@@ -1,0 +1,198 @@
+{
+    "http_status": [
+        {
+            "continue": {
+                "code": 100,
+                "message": "Continue"
+            },
+            "switching_protocols": {
+                "code": 101,
+                "message": "Switching Protocols"
+            },
+            "ok": {
+                "code": 200,
+                "message": "OK"
+            },
+            "created": {
+                "code": 201,
+                "message": "Created"
+            },
+            "accepted": {
+                "code": 202,
+                "message": "Accepted"
+            },
+            "non_authoritative_information": {
+                "code": 203,
+                "message": "Non Authoritative Information"
+            },
+            "no_content": {
+                "code": 204,
+                "message": "No Content"
+            },
+            "reset_content": {
+                "code": 205,
+                "message": "Reset Content"
+            },
+            "partial_content": {
+                "code": 206,
+                "message": "Partial Content"
+            },
+            "multiple_choices": {
+                "code": 300,
+                "message": "Multiple Choices"
+            },
+            "moved_permanently": {
+                "code": 301,
+                "message": "Moved Permanently"
+            },
+            "found": {
+                "code": 302,
+                "message": "Found"
+            },
+            "see_other": {
+                "code": 303,
+                "message": "See Other"
+            },
+            "not_modified": {
+                "code": 304,
+                "message": "Not Modified"
+            },
+            "temporary_redirect": {
+                "code": 307,
+                "message": "Temporary Redirect"
+            },
+            "permanent_redirect": {
+                "code": 308,
+                "message": "Permanent Redirect"
+            },
+            "bad_request": {
+                "code": 400,
+                "message": "Bad Request"
+            },
+            "unauthorized": {
+                "code": 401,
+                "message": "Unauthorized"
+            },
+            "forbidden": {
+                "code": 403,
+                "message": "Forbidden"
+            },
+            "not_found": {
+                "code": 404,
+                "message": "Not Found"
+            },
+            "method_not_allowed": {
+                "code": 405,
+                "message": "Method Not Allowed"
+            },
+            "not_acceptable": {
+                "code": 406,
+                "message": "Not Acceptable"
+            },
+            "proxy_authentication_required": {
+                "code": 407,
+                "message": "Proxy Authentication Required"
+            },
+            "request_timeout": {
+                "code": 408,
+                "message": "Request Timeout"
+            },
+            "conflict": {
+                "code": 409,
+                "message": "Conflict"
+            },
+            "gone": {
+                "code": 410,
+                "message": "Gone"
+            },
+            "length_required": {
+                "code": 411,
+                "message": "Length Required"
+            },
+            "precondition_failed": {
+                "code": 412,
+                "message": "Precondition Failed"
+            },
+            "payload_too_large": {
+                "code": 413,
+                "message": "Payload Too Large"
+            },
+            "uri_too_long": {
+                "code": 414,
+                "message": "URI Too Long"
+            },
+            "unsupported_media_type": {
+                "code": 415,
+                "message": "Unsupported Media Type"
+            },
+            "range_not_satisfiable": {
+                "code": 416,
+                "message": "Range Not Satisfiable"
+            },
+            "expectation_failed": {
+                "code": 417,
+                "message": "Expectation Failed"
+            },
+            "i\"m_a_teapot": {
+                "code": 418,
+                "message": "I\"m a teapot"
+            },
+            "unprocessable_entity": {
+                "code": 422,
+                "message": "Unprocessable Entity"
+            },
+            "too_early": {
+                "code": 425,
+                "message": "Too Early"
+            },
+            "upgrade_required": {
+                "code": 426,
+                "message": "Upgrade Required"
+            },
+            "precondition_required": {
+                "code": 428,
+                "message": "Precondition Required"
+            },
+            "too_many_requests": {
+                "code": 429,
+                "message": "Too Many Requests"
+            },
+            "request_header_fields_too_large": {
+                "code": 431,
+                "message": "Request Header Fields Too Large"
+            },
+            "unavailable_for_legal_reasons": {
+                "code": 451,
+                "message": "Unavailable For Legal Reasons"
+            },
+            "internal_server_error": {
+                "code": 500,
+                "message": "Internal Server Error"
+            },
+            "not_implemented": {
+                "code": 501,
+                "message": "Not Implemented"
+            },
+            "bad_gateway": {
+                "code": 502,
+                "message": "Bad Gateway"
+            },
+            "service_unavailable": {
+                "code": 503,
+                "message": "Service Unavailable"
+            },
+            "gateway_timeout": {
+                "code": 504,
+                "message": "Gateway Timeout"
+            },
+            "http_version_not_supported": {
+                "code": 505,
+                "message": "HTTP Version Not Supported"
+            },
+            "network_authentication_required": {
+                "code": 511,
+                "message": "Network Authentication Required"
+            }
+        }
+    ]
+}
